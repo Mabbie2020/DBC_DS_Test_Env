@@ -8,6 +8,7 @@ pandas = "*"
 jupy = "*"
 notebook = "*"
 scikit-learn = "*"
+kaggle = "*"
 
 [dev-packages]
 
