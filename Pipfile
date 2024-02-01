@@ -9,6 +9,8 @@ jupy = "*"
 notebook = "*"
 scikit-learn = "*"
 kaggle = "*"
+seaborn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
